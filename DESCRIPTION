@@ -1,10 +1,10 @@
 Package: IMBE
 Type: Package
-Title: India's Macroeconomic Business Environment
+Title: India's Macroeconomic Business Environment Analysis & Forecasting
 Version: 0.1.0
 Author: Pinaki Mukherjee <pinaki.economics@gmail.com>
 Maintainer: Pinaki Mukherjee <pinaki.economics@gmail.com>
-Description: This package contains the functions and the data used in the book India's Macroeconomic Business Environment, Analysing and Forecasting using Data Science in R.    
+Description: This package contains the functions and the data used in the book India's Macroeconomic Business Environment Analysis & Forecasting.    
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
