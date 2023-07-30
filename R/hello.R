@@ -25,6 +25,6 @@ hello <- function(x) {
 #' @examples
 #' data.link ("callMoney.xlsx")
 data.link <- function(x){
- system.file("extdata", x, package = "MCBE")
+ system.file("extdata", x, package = "IMBE")
 }
 
